@@ -5,8 +5,10 @@ This project is implemented using **Java** to determine the shortest path betwee
 
 ## Features  
 - **Finds the shortest path** using the BFS algorithm  
+- **Allows users to select the start and end points**  
+- **Supports customizable grid size**  
 - **Uses a Queue for traversal** and a **Linked List to store paths**  
-- **Ideal for grid-based and unweighted graphs**  
+- **Ideal for grid-based pathfinding without weights**  
 - **Handles obstacle avoidance**  
 
 ## Technologies Used  
