@@ -9,7 +9,7 @@ This project is implemented using **Java** to determine the shortest path betwee
 - **Supports customizable grid size**  
 - **Uses a Queue for traversal** and a **Linked List to store paths**  
 - **Ideal for grid-based pathfinding without weights**  
-- **Handles obstacle avoidance**  
+- **Handles obstacles** placed randomly on the grid  
 
 ## Technologies Used  
 - **Java**  
